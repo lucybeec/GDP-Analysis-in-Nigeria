@@ -34,11 +34,15 @@ The data was first normalized in Excel before being transformed in Power Query. 
 
 ![Data Model](https://github.com/lucybeec/GDP-Analysis-in-Nigeria/blob/main/images/GDP_by_data_model.jpeg)
 
-![GDP by sector](https://github.com/lucybeec/GDP-Analysis-in-Nigeria/blob/main/images/GDP_by_sector.jpeg)
-
-![GDP portfolio main page](https://github.com/lucybeec/GDP-Analysis-in-Nigeria/blob/main/images/gdp_portfolio_main.jpeg)
 ## Dashboard Insights 
 
 ## Overview 
+- The current quarter overview is N20.12 Trillion following a 10.01% increase compared to the previous quarter.
+- And an increase of 0% in the preeceeding year.
+
+![GDP portfolio main page](https://github.com/lucybeec/GDP-Analysis-in-Nigeria/blob/main/images/gdp_portfolio_main.jpeg)
 
 ## GDP by Sector Analysis
+![GDP by sector](https://github.com/lucybeec/GDP-Analysis-in-Nigeria/blob/main/images/GDP_by_sector.jpeg)
+
+## Download
