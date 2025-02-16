@@ -46,3 +46,4 @@ The data was first normalized in Excel before being transformed in Power Query. 
 ![GDP by sector](https://github.com/lucybeec/GDP-Analysis-in-Nigeria/blob/main/images/GDP_by_sector.jpeg)
 
 ## Download
+<a href = "https://github.com/lucybeec/GDP-Analysis-in-Nigeria/raw/refs/heads/main/images/Adetola%20Onipede%20GDP%20Project.pbix"> Download the Power BI file 
