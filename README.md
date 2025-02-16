@@ -35,6 +35,8 @@ The data was first normalized in Excel before being transformed in Power Query. 
 ![Data Model](https://github.com/lucybeec/GDP-Analysis-in-Nigeria/blob/main/images/GDP_by_data_model.jpeg)
 
 ![GDP by sector](https://github.com/lucybeec/GDP-Analysis-in-Nigeria/blob/main/images/GDP_by_sector.jpeg)
+
+![GDP portfolio main page](https://github.com/lucybeec/GDP-Analysis-in-Nigeria/blob/main/images/gdp_portfolio_main.jpeg)
 ## Dashboard Insights 
 
 ## Overview 
